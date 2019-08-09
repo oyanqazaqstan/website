@@ -1,0 +1,185 @@
+backend:
+  name: git-gateway
+  branch: master
+publish_mode: editorial_workflow
+site_url: 'https://example.com'
+media_folder: 'src/images'
+public_folder: 'images'
+collections:
+  - name: 'pages'
+    label: 'Страницы'
+    files:
+      - name: 'home'
+        label: 'Главная'
+        delete: false
+        file: 'src/index.md'
+        slug: '{{slug}}'
+        create: false
+        fields:
+          - {label: 'Макет', name: 'layout', widget: 'hidden', default: 'layouts/njk.njk'}
+          - {label: 'Заголовок', name: 'title', widget: 'string'}
+          - {label: 'SEO заголовок', name: 'metaTitle', widget: 'string', required: false}
+          - {label: 'SEO описание', name: 'metaDesc', widget: 'string', required: false}
+          - {
+              label: 'Заголовок списка постов',
+              name: 'postsHeading',
+              widget: 'string',
+              default: 'Последние новости',
+            }
+          - {
+              label: 'Текст ссылки архива',
+              name: 'archiveButtonText',
+              widget: 'string',
+              default: 'Посмотреть все новости',
+            }
+          - {label: 'SEO картинка', name: 'socialImage', widget: 'image', required: false}
+          - {label: 'Тело', name: 'body', widget: 'markdown'}
+  - name: 'generic_pages'
+    label: 'Общие страницы'
+    folder: 'src/pages'
+    slug: '{{slug}}'
+    preview_path: 'pages/{{slug}}'
+    create: true
+    fields:
+      - {label: 'Макет', name: 'layout', widget: 'hidden', default: 'layouts/page.njk'}
+      - {label: 'Заголовок', name: 'title', widget: 'string'}
+      - {label: 'Permalink Override', name: 'permalink', widget: 'string'}
+      - {label: 'SEO Заголовок', name: 'metaTitle', widget: 'string', required: false}
+      - {label: 'SEO описание', name: 'metaDesc', widget: 'string', required: false}
+      - {label: 'SEO картинка', name: 'socialImage', widget: 'image', required: false}
+      - {label: 'Тело', name: 'body', widget: 'markdown'}
+  - name: 'posts'
+    label: 'Новости'
+    folder: 'src/posts'
+    slug: '{{slug}}'
+    preview_path: 'posts/{{slug}}'
+    create: true
+    fields:
+      - {label: 'Макет', name: 'layout', widget: 'hidden', default: 'layouts/post.njk'}
+      - {label: 'Заголовок', name: 'title', widget: 'string'}
+      - {label: 'SEO заголовок', name: 'metaTitle', widget: 'string', required: false}
+      - {label: 'SEO описание', name: 'metaDesc', widget: 'string', required: false}
+      - {label: 'SEO картинка', name: 'socialImage', widget: 'image', required: false}
+      - {label: 'Дата публикации', name: 'date', widget: 'datetime'}
+      - {label: 'Теги', name: 'tags', widget: 'list', allow_add: true}
+      - {label: 'Тело', name: 'body', widget: 'markdown'}
+  - label: 'Общее'
+    name: 'globals'
+    files:
+      - label: 'Данные сайта'
+        name: 'site_data'
+        delete: false
+        file: 'src/_data/site.json'
+        fields:
+          - {label: 'Название сайта', name: 'name', widget: 'string'}
+          - {label: 'Url сайта', name: 'url', widget: 'string'}
+          - {label: 'Имя автора', name: 'authorName', widget: 'string'}
+          - {label: 'Email автора', name: 'authorEmail', widget: 'string'}
+          - {
+              label: 'Twitter автора',
+              name: 'authorHandle',
+              widget: 'string',
+              required: false,
+            }
+          - {label: 'Описание в футере', name: 'shortDesc', widget: 'string'}
+          - {
+              label: 'Максимум постов на страницу',
+              name: 'maxPostsPerPage',
+              widget: 'number',
+              default: 5,
+            }
+          - {
+              label: 'Show Theme Credit',
+              name: 'showThemeCredit',
+              widget: 'boolean',
+              default: false,
+            }
+          - {
+              label: 'Enable Third Party Comments Area',
+              name: 'enableThirdPartyComments',
+              widget: 'boolean',
+              default: false,
+            }
+      - label: 'Навигация'
+        name: 'nav'
+        delete: false
+        file: 'src/_data/navigation.json'
+        fields:
+          - label: 'Пункты'
+            name: 'items'
+            widget: 'list'
+            fields:
+              - {label: 'Текст', name: 'text', widget: 'string'}
+              - {label: 'Url', name: 'url', widget: 'string'}
+              - {
+                  label: 'Это ссылка на внешний сайт?',
+                  name: 'external',
+                  widget: 'boolean',
+                  required: false,
+                }
+      - label: 'Theme Settings'
+        name: 'theme'
+        delete: false
+        file: 'src/_data/tokens.json'
+        fields:
+          - label: 'Size Scale'
+            name: 'size-scale'
+            widget: 'object'
+            fields:
+              - {label: 'Base Size', name: 'base', widget: 'string', default: '1rem'}
+              - {label: 'Ratio: 300', name: '300', widget: 'string', default: '0.8rem'}
+              - {label: 'Ratio: 500', name: '500', widget: 'string', default: '1.25rem'}
+              - {label: 'Ratio: 600', name: '600', widget: 'string', default: '1.56rem'}
+              - {label: 'Ratio: 700', name: '700', widget: 'string', default: '1.95rem'}
+              - {label: 'Ratio: 800', name: '800', widget: 'string', default: '2.44rem'}
+              - {label: 'Ratio: 900', name: '900', widget: 'string', default: '3.05rem'}
+              - {label: 'Max Size', name: 'max', widget: 'string', default: '4rem'}
+          - label: 'Colors'
+            name: 'colors'
+            widget: 'object'
+            fields:
+              - {
+                  label: 'Primary',
+                  name: 'primary',
+                  widget: 'string',
+                  default: 'hsl(208, 57%, 21%)',
+                }
+              - {
+                  label: 'Primary Shade (darker)',
+                  name: 'primary-shade',
+                  widget: 'string',
+                  default: 'hsl(208, 56%, 14%)',
+                }
+              - {
+                  label: 'Primary Glare (lighter)',
+                  name: 'primary-glare',
+                  widget: 'string',
+                  default: 'hsl(207, 57%, 31%)',
+                }
+              - {
+                  label: 'Highlight',
+                  name: 'highlight',
+                  widget: 'string',
+                  default: 'hsl(42, 98%, 77%)',
+                }
+              - {
+                  label: 'Light',
+                  name: 'light',
+                  widget: 'string',
+                  default: 'hsl(0, 0%, 100%)',
+                }
+              - {label: 'Mid', name: 'mid', widget: 'string', default: 'hsl(0, 0%, 80%)'}
+              - {
+                  label: 'Dark',
+                  name: 'dark',
+                  widget: 'string',
+                  default: 'hsl(0, 0%, 20%)',
+                }
+          - label: 'Fonts'
+            name: 'fonts'
+            widget: 'hidden'
+            default:
+              {
+                'base': '"-apple-system, BlinkMacSystemFont, ''Segoe UI'', Roboto, Helvetica, Arial, sans-serif, ''Apple Color Emoji'', ''Segoe UI Emoji'', ''Segoe UI Symbol''"',
+                'serif': '"''Lora'', serif"',
+              }

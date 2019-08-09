@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/OyanQazaqstan/",
+      "external": true
+    },
+    {
+      "text": "Telegram",
+      "url": "https://t.me/oyanqazaqstan",
+      "external": true
+    }
+  ]
+}
