@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Oyan, Qazaqstan - Main Page'
+title: 'Oyan, Qazaqstan'
 postsHeading: Последние новости
 archiveButtonText: Посмотреть все новости
 socialImage: ''
