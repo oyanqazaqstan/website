@@ -3,14 +3,12 @@ layout: home
 title: 'OYAN, QAZAQSTAN'
 postsHeading: Последние новости
 archiveButtonText: Посмотреть все новости
-socialImage: /images/oq_fb_cover.png
+socialImage: ''
 ---
+![](/images/oq_fb_cover.png)
+
 Это официальный сайт гражданского движения “Oyan, Qazaqstan”.
 
-
-
 Мы — казахстанцы, люди свободы, которые сами определяют свое будущее. Мы любим нашу страну, у нас есть знания, большой потенциал и силы изменить нашу жизнь к лучшему.
-
-
 
 ОЯН!
