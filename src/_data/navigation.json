@@ -1,14 +1,31 @@
 {
   "items": [
     {
+      "text": "Telegram",
+      "url": "https://t.me/oyanqazaqstan",
+      "external": true
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/oyanqazaqstankz",
+      "external": true
+    },
+    {
+      "text": "Youtube",
+      "url": "https://www.youtube.com/channel/UCSE66snuSP9nZkkdnsmv4Xw"
+    },
+    {
       "text": "Facebook",
       "url": "https://www.facebook.com/OyanQazaqstan/",
       "external": true
     },
     {
-      "text": "Telegram",
-      "url": "https://t.me/oyanqazaqstan",
-      "external": true
+      "text": "ВКонтакте",
+      "url": "https://vk.com/oyanqazaqstan"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/oyanqazaqstankz"
     }
   ]
 }
