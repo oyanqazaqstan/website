@@ -2,5 +2,5 @@
 
 # Website for Oyan, Qazaqstan.
 
-Build on [Eleventy](https://11ty.io) with [Hylia](https://github.com/oyanqazastan/website/HYLIADOC.md).
+Build on [Eleventy](https://11ty.io) with [Hylia](https://github.com/oyanqazastan/website/blob/master/HYLIADOC.md).
 Deployed to [Netlify](https://netlify.com).
