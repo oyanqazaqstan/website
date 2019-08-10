@@ -1,5 +1,5 @@
 ---
-title: '“Oyan, Qazaqstan” азаматтық декларациясы'
+title: '“OYAN, QAZAQSTAN” азаматтық декларациясы'
 date: 2019-06-05T00:00:00.000Z
 tags:
   - demo-content
