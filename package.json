@@ -37,13 +37,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andybelldesign/hylia.git"
+    "url": "git@github.com:oyanqazastan/website.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andybelldesign/hylia/issues"
+    "url": "https://github.com/oyanqazastan/website/issues"
   },
-  "homepage": "https://github.com/andybelldesign/hylia#readme"
+  "homepage": "https://oyan.digital"
 }
