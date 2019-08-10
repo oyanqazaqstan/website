@@ -3,7 +3,7 @@ layout: home
 title: 'OYAN, QAZAQSTAN'
 postsHeading: Последние новости
 archiveButtonText: Посмотреть все новости
-socialImage: ''
+socialImage: /images/oq_fb_cover.png
 ---
 Это официальный сайт гражданского движения “Oyan, Qazaqstan”.
 
