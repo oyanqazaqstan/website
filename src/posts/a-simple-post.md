@@ -1,6 +1,6 @@
 ---
-title: A very simple post
-date: '2019-06-18'
+title: '“OYAN, QAZAQSTAN” азаматтық декларациясы'
+date: 2019-06-05T00:00:00.000Z
 tags:
   - demo-content
   - simple-post
