@@ -12,7 +12,8 @@
     },
     {
       "text": "Youtube",
-      "url": "https://www.youtube.com/channel/UCSE66snuSP9nZkkdnsmv4Xw"
+      "url": "https://www.youtube.com/channel/UCSE66snuSP9nZkkdnsmv4Xw",
+      "external": true
     },
     {
       "text": "Facebook",
@@ -21,11 +22,13 @@
     },
     {
       "text": "ВКонтакте",
-      "url": "https://vk.com/oyanqazaqstan"
+      "url": "https://vk.com/oyanqazaqstan",
+      "external": true
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/oyanqazaqstankz"
+      "url": "https://twitter.com/oyanqazaqstankz",
+      "external": true
     }
   ]
 }
