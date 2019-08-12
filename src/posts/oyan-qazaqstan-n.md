@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: '“Oyan, Qazaqstan” азаматтық декларациясы'
+title: '“OYAN, QAZAQSTAN” азаматтық декларациясы'
 date: 2019-06-05T23:00:00.000Z
 tags:
   - декларация
