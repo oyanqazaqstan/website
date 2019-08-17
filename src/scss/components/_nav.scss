@@ -14,7 +14,7 @@
   }
 
   &__item {
-    padding: get-size(300) 0;
+    // padding: get-size(300) 0;
     flex-shrink: 0;
 
     a {
@@ -24,6 +24,14 @@
 
       &:not(:hover) {
         text-decoration: none;
+      }
+
+      svg,
+      img {
+        width: 31px;
+        border-radius: 5px;
+        vertical-align: middle;
+        fill: currentColor;
       }
     }
   }
