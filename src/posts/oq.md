@@ -9,6 +9,62 @@ tags:
 
 [2. Разве от простых людей что-то зависит?](https://oyan.digital/posts/oq/#heading-2.-razve-ot-prostyh-lyudej-chto-to-zavisit)
 
+[3. Какие цели у Oyan, Qazaqstan! ?](https://oyan.digital/posts/oq/#heading-3.-kakie-celi-u-oyan-qazaqstan!)
+
+[4. Кто лидеры Oyan, Qazaqstan! ?](https://oyan.digital/posts/oq/#heading-4.-kto-lidery-oyan-qazaqstan!)
+
+[5. Как к Вам присоединиться?](https://oyan.digital/posts/oq/#heading-5.-kak-k-vam-prisoedinitsya)
+
+[6. И что делают сторонники Oyan, Qazaqstan! ?](https://oyan.digital/posts/oq/#heading-6.-i-chto-delayut-storonniki-oyan-qazaqstan!)
+
+[7. Как Вы привлекаете сторонников?](https://oyan.digital/posts/oq/#heading-7.-kak-vy-privlekaete-storonnikov)
+
+[8. Что можно сделать в Oyan, Qazaqstan! ?](https://oyan.digital/posts/oq/#heading-8.-chto-mozhno-sdelat-v-oyan-qazaqstan!)
+
+[9. Кто вам платит?](https://oyan.digital/posts/oq/#heading-9.-kto-vam-platit)
+
+[10. Как Вы докажете, что независимы?](https://oyan.digital/posts/oq/#heading-10.-kak-vy-dokazhete-chto-nezavisimy)
+
+[11. Будет ли Oyan, Qazaqstan! регистрироваться?](https://oyan.digital/posts/oq/#heading-11.-budet-li-oyan-qazaqstan!-registrirovatsya)
+
+[12. Как Вы убедите народа идти за Oyan, Qazaqstan! ?](https://oyan.digital/posts/oq/#heading-12.-kak-vy-ubedite-naroda-idti-za-oyan-qazaqstan!)
+
+[13. Вы связаны с акцией «Мен ояндым»?](https://oyan.digital/posts/oq/#heading-13.-vy-svyazany-s-akciej-men-oyandym)
+
+[14. Как Вы собираетесь достигать своих целей?](https://oyan.digital/posts/oq/#heading-14.-kak-vy-sobiraetes-dostigat-svoih-celej)
+
+[15. А что такое серуен?](https://oyan.digital/posts/oq/#heading-15.-a-chto-takoe-seruen)
+
+[16. Зачем митинговать, если можно сесть за стол и вести конструктивный диалог?](https://oyan.digital/posts/oq/#heading-16.-zachem-mitingovat-esli-mozhno-sest-za-stol-i-vesti-konstruktivnyj-dialog)
+
+[17. Ну ок, но никто же не запрещает митинговать? Идите в акимат за разрешением.](https://oyan.digital/posts/oq/#heading-17.-nu-ok-no-nikto-zhe-ne-zapreshaet-mitingovat-idite-v-akimat-za-razresheniem.)
+
+[18. Вы нур-отановский проект?](https://oyan.digital/posts/oq/#heading-18.-vy-nur-otanovskij-proekt)
+
+[19. Вы ДВКшные?](https://oyan.digital/posts/oq/#heading-19.-vy-dvkshnye)
+
+[20. Вы хотите власти?](https://oyan.digital/posts/oq/#heading-20.-vy-hotite-vlasti)
+
+[21. Разве не лучше всем несогласным объединиться? Единая оппозиция - это так круто!](https://oyan.digital/posts/oq/#heading-21.-razve-ne-luchshe-vsem-nesoglasnym-obuedinitsya-edinaya-oppoziciya-eto-tak-kruto!)
+
+[22. Почему Вы не называете себя партией?](https://oyan.digital/posts/oq/#heading-22.-pochemu-vy-ne-nazyvaete-sebya-partiej)
+
+[23. Вы либералы/коммунисты/социалисты/националисты/прочее?](https://oyan.digital/posts/oq/#heading-23.-vy-liberalykommunistysocialistynacionalistyprochee)
+
+[24. Вы кофейные хипстеры?](https://oyan.digital/posts/oq/#heading-24.-vy-kofejnye-hipstery)
+
+[25. В декларации Oyan, Qazaqstan! нет требований, которые я хочу.](https://oyan.digital/posts/oq/#heading-25.-v-deklaracii-oyan-qazaqstan!-net-trebovanij-kotorye-ya-hochu.)
+
+[26. Где конструктив?](https://oyan.digital/posts/oq/#heading-26.-gde-konstruktiv)
+
+[27. Разве наше общество готово к демократии?](https://oyan.digital/posts/oq/#heading-27.-razve-nashe-obshestvo-gotovo-k-demokratii)
+
+[28. Какие у Oyan, Qazaqstan! планы?](https://oyan.digital/posts/oq/#heading-28.-kakie-u-oyan-qazaqstan!-plany)
+
+[29. Каковая позиция Oyan, Qazaqstan! по казахскому языку?](https://oyan.digital/posts/oq/#heading-29.-kakovaya-poziciya-oyan-qazaqstan!-po-kazahskomu-yazyku)
+
+[30. Вы связаны с акцией «Мен ояндым»?](https://oyan.digital/posts/oq/#heading-30.-vy-svyazany-s-akciej-men-oyandym)
+
 ## 1. Что такое Oyan, Qazaqstan?
 
 Oyan, Qazaqstan! - это горизонтальное гражданское движение, требующее конституционных реформ, соблюдения гражданских и политических прав граждан, перехода к парламентской республике, независимой судебной системе и подотчётности государства гражданам Казахстана. 
