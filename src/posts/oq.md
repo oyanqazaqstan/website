@@ -21,7 +21,7 @@ tags:
 
 [7. Как Вы привлекаете сторонников?](https://oyan.digital/posts/oq/#heading-7.-kak-vy-privlekaete-storonnikov)
 
-[8. Что можно сделать в Oyan, Qazaqstan! ?](<Что можно сделать в Oyan, Qazaqstan! ? permalink>)
+[8. Что можно сделать в Oyan, Qazaqstan! ?](https://oyan.digital/posts/oq/#heading-8.-chto-mozhno-sdelat-v-oyan-qazaqstan!)
 
 [9. Кто вам платит?](https://oyan.digital/posts/oq/#heading-9.-kto-vam-platit)
 
