@@ -67,7 +67,7 @@ tags:
 
 [30. Вы связаны с акцией «Мен ояндым»?](https://oyan.digital/posts/oq/#heading-30.-vy-svyazany-s-akciej-men-oyandym)
 
-# Ответы:
+#  FAQ:
 
 ## 1. Что такое Oyan, Qazaqstan?
 
