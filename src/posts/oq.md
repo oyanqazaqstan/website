@@ -6,15 +6,13 @@ tags:
   - FAQ
 ---
 [1. Что такое Oyan, Qazaqstan?](https://oyan.digital/posts/oq/#heading-1.-chto-takoe-oyan-qazaqstan)
-
 [2. Разве от простых людей что-то зависит?](https://oyan.digital/posts/oq/#heading-2.-razve-ot-prostyh-lyudej-chto-to-zavisit)
-
 [3. Какие цели у Oyan, Qazaqstan! ?](https://oyan.digital/posts/oq/#heading-3.-kakie-celi-u-oyan-qazaqstan!)
 [4. Кто лидеры Oyan, Qazaqstan! ?](https://oyan.digital/posts/oq/#heading-4.-kto-lidery-oyan-qazaqstan!)
 [5. Как к Вам присоединиться?](https://oyan.digital/posts/oq/#heading-5.-kak-k-vam-prisoedinitsya)
 [6. И что делают сторонники Oyan, Qazaqstan! ?](https://oyan.digital/posts/oq/#heading-6.-i-chto-delayut-storonniki-oyan-qazaqstan!)
 [7. Как Вы привлекаете сторонников?](https://oyan.digital/posts/oq/#heading-7.-kak-vy-privlekaete-storonnikov)
-[8. Что можно сделать в Oyan, Qazaqstan! ?](<Что можно сделать в Oyan, Qazaqstan! ? permalink>)
+[8. Что можно сделать в Oyan, Qazaqstan! ?](https://oyan.digital/posts/oq/#heading-8.-chto-mozhno-sdelat-v-oyan-qazaqstan!)
 [9. Кто вам платит?](https://oyan.digital/posts/oq/#heading-9.-kto-vam-platit)
 [10. Как Вы докажете, что независимы?](https://oyan.digital/posts/oq/#heading-10.-kak-vy-dokazhete-chto-nezavisimy)
 [11. Будет ли Oyan, Qazaqstan! регистрироваться?](https://oyan.digital/posts/oq/#heading-11.-budet-li-oyan-qazaqstan!-registrirovatsya)
