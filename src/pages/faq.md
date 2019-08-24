@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Ответы OQ на часто задаваемые вопросы
-permalink: faq
+permalink: faq.html
 ---
 
 # Вопросы:
