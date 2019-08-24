@@ -22,7 +22,7 @@ permalink: faq.html
 
 [8. Что можно сделать в Oyan, Qazaqstan! ?](https://oyan.digital/faq#heading-8.-chto-mozhno-sdelat-v-oyan-qazaqstan!)
 
-[9. Кто вам платит?](https://oyan.digital/pfa/#heading-9.-kto-vam-platit)
+[9. Кто вам платит?](https://oyan.digital/faq#heading-9.-kto-vam-platit)
 
 [10. Как Вы докажете, что независимы?](https://oyan.digital/faq#heading-10.-kak-vy-dokazhete-chto-nezavisimy)
 
@@ -42,7 +42,7 @@ permalink: faq.html
 
 [18. Вы нур-отановский проект?](https://oyan.digital/faq#heading-18.-vy-nur-otanovskij-proekt)
 
-[19. Вы ДВКшные?](https://oyan.digital/pfa/#heading-19.-vy-dvkshnye)
+[19. Вы ДВКшные?](https://oyan.digital/faq#heading-19.-vy-dvkshnye)
 
 [20. Вы хотите власти?](https://oyan.digital/faq#heading-20.-vy-hotite-vlasti)
 
