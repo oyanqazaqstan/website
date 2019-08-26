@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Гражданское движение
-postsHeading: Декларация
+postsHeading: Новости
 archiveButtonText: Посмотреть все
 socialImage: '/images/social-share.jpg'
 ---
