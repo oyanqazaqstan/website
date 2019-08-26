@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Гражданская декларация “ОЯН, КАЗАХСТАН”'
+title: 'Гражданская декларация Oyan, Qazaqstan'
 date: 2019-06-05T18:00:00.000Z
 tags:
   - декларация
