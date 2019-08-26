@@ -1,7 +1,7 @@
 {
   "name": "oyanqazaqstan",
   "version": "0.1.0",
-  "description": "Website of Oyan Qazaqstan",
+  "description": "Website of Oyan, Qazaqstan",
   "main": "index.js",
   "dependencies": {
     "@11ty/eleventy": "^0.8.3",
