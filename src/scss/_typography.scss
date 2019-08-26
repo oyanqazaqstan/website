@@ -8,6 +8,7 @@
 //     url('/fonts/lora-v13-latin-700.woff') format('woff');
 // }
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap&subset=cyrillic,cyrillic-ext');
+@import url('https://fonts.googleapis.com/css?family=PT+Serif&display=swap&subset=cyrillic-ext');
 
 body {
   // Strip the unit off the size ratio to generate a line height
@@ -20,7 +21,9 @@ body {
 h1,
 h2,
 h3 {
-  @include apply-utility('font', 'serif');
+  @include apply-utility('font', 'heading');
+  word-break: break-word;
+  hyphens: auto;
 }
 
 h1 {
