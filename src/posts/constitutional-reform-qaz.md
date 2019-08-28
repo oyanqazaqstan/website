@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Oyan, Qazaqstan - ның конституциялық реформа туралы мәлімдемесі'
+title: 'Oyan, Qazaqstan конституциялық реформа туралы мәлімдемесі'
 date: 2019-08-25T16:59:46.077Z
 tags:
   - Оян
