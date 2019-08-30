@@ -12,6 +12,7 @@
   &__summary {
     --flow-space: #{get-size(500)};
     font-size: get-size(500);
+    color: white;
 
     a {
       color: currentColor;
