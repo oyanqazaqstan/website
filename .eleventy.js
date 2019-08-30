@@ -1,5 +1,6 @@
 const rssPlugin = require('@11ty/eleventy-plugin-rss');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
+const pluginPWA = require('eleventy-plugin-pwa');
 
 // Import filters
 const dateFilter = require('./src/filters/date-filter.js');
@@ -33,6 +34,7 @@ module.exports = function(config) {
   config.addPassthroughCopy('src/admin/config.yml');
   config.addPassthroughCopy('src/admin/previews.js');
   config.addPassthroughCopy('node_modules/nunjucks/browser/nunjucks-slim.js');
+  config.addPassthroughCopy('src/manifest.json');
 
   const now = new Date();
 
@@ -53,6 +55,7 @@ module.exports = function(config) {
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
+  config.addPlugin(pluginPWA);
 
   return {
     dir: {

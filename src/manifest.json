@@ -1,0 +1,15 @@
+{
+  "short_name": "Oyan",
+  "name": "Oyan, Qazaqstam",
+  "icons": [
+    {
+      "src": "/images/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#5CA8EF",
+  "display": "standalone",
+  "theme_color": "#FFFE54"
+}
