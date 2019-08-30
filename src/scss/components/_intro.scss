@@ -5,7 +5,8 @@
   background-size: cover;
 
   & > div {
-    background: var(--color-intro-bg);
+    // background: var(--color-intro-bg);
+    background: rgba(0, 0, 0, 0.5);
   }
 
   &__summary {
@@ -23,7 +24,8 @@
 
   &__heading {
     max-width: 40ex;
-    color: var(--color-theme-feature-text);
+    // color: var(--color-theme-feature-text);
+    color: white;
 
     &--compact {
       max-width: 20ex;
