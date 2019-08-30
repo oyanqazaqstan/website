@@ -1,5 +1,12 @@
 .intro {
   background: var(--color-theme-highlight-block);
+  background-image: url(/images/intro.jpg);
+  background-position: center;
+  background-size: cover;
+
+  & > div {
+    background: var(--color-intro-bg);
+  }
 
   &__summary {
     --flow-space: #{get-size(500)};
