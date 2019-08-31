@@ -1,9 +1,18 @@
 .intro {
   background: var(--color-theme-highlight-block);
+  background-image: url(/images/intro.jpg);
+  background-position: center;
+  background-size: cover;
+
+  & > div {
+    // background: var(--color-intro-bg);
+    background: rgba(0, 0, 0, 0.5);
+  }
 
   &__summary {
     --flow-space: #{get-size(500)};
     font-size: get-size(500);
+    color: white;
 
     a {
       color: currentColor;
@@ -16,7 +25,8 @@
 
   &__heading {
     max-width: 40ex;
-    color: var(--color-theme-feature-text);
+    // color: var(--color-theme-feature-text);
+    color: white;
 
     &--compact {
       max-width: 20ex;
