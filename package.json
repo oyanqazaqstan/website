@@ -38,13 +38,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:oyanqazastan/website.git"
+    "url": "git@github.com:oyanqazaqstan/website.git"
   },
   "keywords": [],
   "author": "oyanqazaqstankz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oyanqazastan/website/issues"
+    "url": "https://github.com/oyanqazaqstan/website/issues"
   },
   "homepage": "https://oyan.digital"
 }
