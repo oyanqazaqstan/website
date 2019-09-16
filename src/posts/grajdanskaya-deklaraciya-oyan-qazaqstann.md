@@ -8,8 +8,6 @@ tags:
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h5F2HmaONCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<span style="color:white">Мы не поддерживаем Виталия Югая известного как Electric Child</span>.
-
 Мы - казахстанцы, люди свободы, которые сами определяют свое будущее. Мы любим нашу страну, у нас есть знания, большой потенциал и силы изменить нашу жизнь к лучшему.
 
 Сегодня, когда власти не считаются с Конституцией, когда права и свободы человека подавляются, когда коррупция и ложь заменили политику, мы готовы взять ответственность за будущее страны на себя.
