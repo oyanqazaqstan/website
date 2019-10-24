@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Гражданское движение
+title: Движение за политические реформы
 postsHeading: Новости
 archiveButtonText: Посмотреть все
-socialImage: '/images/social-share.jpg'
+socialImage: /images/social-share.jpg
 ---
 
 ![](/images/logo.svg)
