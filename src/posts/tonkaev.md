@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: tonkaev
+title: Ноль политических реформ
 date: 2019-12-20T14:09:43.861Z
 tags:
   - нсод
