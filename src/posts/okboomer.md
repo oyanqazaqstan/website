@@ -4,7 +4,7 @@ title: okboomer
 date: 2019-12-23T08:44:49.248Z
 tags:
   - НСОД
-  - boomer
+  - OKboomer
 ---
 # **Ноль политических реформ от НСОД**
 
