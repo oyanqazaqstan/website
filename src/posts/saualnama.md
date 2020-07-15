@@ -16,6 +16,6 @@ tags:
 
 Ссылки и тд
 
-![](images/img_7535-2-.jpg)
+![pic 1](images/img_7535-2-.jpg "picture")
 
-![](images/img_7481.jpg)
+![pic 2](images/img_7481.jpg "picture")
